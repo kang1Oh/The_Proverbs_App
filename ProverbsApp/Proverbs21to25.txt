@@ -1,0 +1,158 @@
+Chapter	Verse	Unformatted Text (Pure Text Only)	Formatted Text (with Punctuations)	Metawords_Keywords
+21	1	The kings heart is a stream of water in the hand of the Lord he turns it wherever he will	The king’s heart is a stream of water in the hand of the Lord; he turns it wherever he will.	heart, hand
+21	2	Every way of a man is right in his own eyes but the Lord weighs the heart	Every way of a man is right in his own eyes, but the Lord weighs the heart.	own, heart
+21	3	To do righteousness and justice is more acceptable to the Lord than sacrifice	To do righteousness and justice is more acceptable to the Lord than sacrifice.	righteousness, justice, sacrifice
+21	4	Haughty eyes and a proud heart the lamp of the wicked are sin	Haughty eyes and a proud heart, the lamp of the wicked, are sin.	proud, wicked, sin
+21	5	The plans of the diligent lead surely to abundance but everyone who is hasty comes only to poverty	The plans of the diligent lead surely to abundance, but everyone who is hasty comes only to poverty.	diligent, abundance, poverty
+21	6	The getting of treasures by a lying tongue is a fleeting vapor and a snare of death	The getting of treasures by a lying tongue is a fleeting vapor and a snare of death.	treasures, lying, death
+21	7	The violence of the wicked will sweep them away because they refuse to do what is just	The violence of the wicked will sweep them away, because they refuse to do what is just.	violence, wicked
+21	8	The way of the guilty is crooked but the conduct of the pure is upright	The way of the guilty is crooked, but the conduct of the pure is upright.	guilty, upright, 
+21	9	It is better to live in a corner of the housetop than in a house shared with a quarrelsome wife	It is better to live in a corner of the housetop than in a house shared with a quarrelsome wife.	quarrelsome
+21	10	The soul of the wicked desires evil his neighbor finds no mercy in his eyes	The soul of the wicked desires evil; his neighbor finds no mercy in his eyes.	soul, desire, mercy
+21	11	When a scoffer is punished the simple becomes wise when a wise man is instructed he gains knowledge	When a scoffer is punished, the simple becomes wise; when a wise man is instructed, he gains knowledge.	punished, wise, knowledge
+21	12	The Righteous One observes the house of the wicked he throws the wicked down to ruin	The Righteous One observes the house of the wicked; he throws the wicked down to ruin.	righteous, wicked, ruin
+21	13	Whoever closes his ear to the cry of the poor will himself call out and not be answered	Whoever closes his ear to the cry of the poor will himself call out and not be answered.	poor, answered
+21	14	A gift in secret averts anger and a concealed bribe strong wrath	A gift in secret averts anger, and a concealed bribe, strong wrath.	anger, bribe, wrath
+21	15	When justice is done it is a joy to the righteous but terror to evildoers	When justice is done, it is a joy to the righteous but terror to evildoers.	justice, righteous, evildoers
+21	16	One who wanders from the way of good sense will rest in the assembly of the dead	One who wanders from the way of good sense will rest in the assembly of the dead.	wanders, dead
+21	17	Whoever loves pleasure will be a poor man he who loves wine and oil will not be rich	Whoever loves pleasure will be a poor man; he who loves wine and oil will not be rich.	 pleasure, poor, rich
+21	18	The wicked is a ransom for the righteous and the traitor for the upright	The wicked is a ransom for the righteous, and the traitor for the upright.	wicked, righteous, traitor
+21	19	It is better to live in a desert land than with a quarrelsome and fretful woman	It is better to live in a desert land than with a quarrelsome and fretful woman.	desert, quarrelsome
+21	20	Precious treasure and oil are in a wise mans dwelling but a foolish man devours it	Precious treasure and oil are in a wise man’s dwelling, but a foolish man devours it.	wise, foolish
+21	21	Whoever pursues righteousness and kindness will find life righteousness and honor	Whoever pursues righteousness and kindness will find life, righteousness, and honor.	righteousness, kindness, honor
+21	22	A wise man scales the city of the mighty and brings down the stronghold in which they trust	A wise man scales the city of the mighty and brings down the stronghold in which they trust.	wise, mighty, trust
+21	23	Whoever keeps his mouth and his tongue keeps himself out of trouble	Whoever keeps his mouth and his tongue keeps himself out of trouble.	trouble
+21	24	Scoffer is the name of the arrogant haughty man who acts with arrogant pride	“Scoffer” is the name of the arrogant, haughty man who acts with arrogant pride.	arrogant, pride
+21	25	The desire of the sluggard kills him for his hands refuse to labor	The desire of the sluggard kills him, for his hands refuse to labor.	desire, sluggard, labor
+21	26	ll day long he craves and craves but the righteous gives and does not hold back	ll day long he craves and craves, but the righteous gives and does not hold back.	craves, righteous
+21	27	The sacrifice of the wicked is an abomination how much more when he brings it with evil intent	The sacrifice of the wicked is an abomination; how much more when he brings it with evil intent.	sacrifice, wicked, abomination
+21	28	A false witness will perish but the word of a man who hears will endure	A false witness will perish, but the word of a man who hears will endure.	perish
+21	29	A wicked man puts on a bold face but the upright gives thought to his ways	A wicked man puts on a bold face, but the upright gives thought to his ways.	wicked, upright
+21	30	No wisdom no understanding no counsel can avail against the Lord	No wisdom, no understanding, no counsel can avail against the Lord.	wisdom, understanding, counsel, avail
+21	31	The horse is made ready for the day of battle but the victory belongs to the Lord	The horse is made ready for the day of battle, but the victory belongs to the Lord.	battle, victory
+22	1	A good name is to be chosen rather than great riches and favor is better than silver or gold	A good name is to be chosen rather than great riches, and favor is better than silver or gold.	name, riches, favor
+22	2	The rich and the poor meet together the Lord is the Maker of them all	The rich and the poor meet together; the Lord is the Maker of them all.	rich, poor, lord
+22	3	The prudent sees danger and hides himself but the simple go on and suffer for it	The prudent sees danger and hides himself, but the simple go on and suffer for it.	prudent, danger, suffering
+22	4	The reward for humility and fear of the Lord is riches and honor and life	The reward for humility and fear of the Lord is riches and honor and life.	humility, fear, riches
+22	5	Thorns and snares are in the way of the crooked whoever guards his soul will keep far from them	Thorns and snares are in the way of the crooked; whoever guards his soul will keep far from them.	thorns, snares, guarding
+22	6	Train up a child in the way he should go even when he is old he will not depart from it	Train up a child in the way he should go; even when he is old he will not depart from it.	train, child, way
+22	7	The rich rules over the poor and the borrower is the slave of the lender	The rich rules over the poor, and the borrower is the slave of the lender.	rich rules, borrower, slave
+22	8	Whoever sows injustice will reap calamity and the rod of his fury will fail	Whoever sows injustice will reap calamity, and the rod of his fury will fail.	injustice, calamity, fury
+22	9	Whoever has a bountiful eye will be blessed for he shares his bread with the poor	Whoever has a bountiful eye will be blessed, for he shares his bread with the poor.	bountiful eye, blessed, sharing
+22	10	Drive out a scoffer and strife will go out and quarreling and abuse will cease	Drive out a scoffer, and strife will go out, and quarreling and abuse will cease.	drive out, scoffer, cease
+22	11	He who loves purity of heart and whose speech is gracious will have the king as his friend	He who loves purity of heart, and whose speech is gracious, will have the king as his friend.	purity, heart, king
+22	12	The eyes of the Lord keep watch over knowledge but he overthrows the words of the traitor	The eyes of the Lord keep watch over knowledge, but he overthrows the words of the traitor.	eyes, lord, knowledge
+22	13	The sluggard says There is a lion outside I shall be killed in the streets	The sluggard says, “There is a lion outside! I shall be killed in the streets!”	sluggard, lion, fear
+22	14	The mouth of forbidden women is a deep pit he with whom the Lord is angry will fall into it	The mouth of forbidden women is a deep pit; he with whom the Lord is angry will fall into it.	forbidden women, pit, anger
+22	15	Folly is bound up in the heart of a child but the rod of discipline drives it far from him	Folly is bound up in the heart of a child, but the rod of discipline drives it far from him.	folly, heart, discipline
+22	16	Whoever oppresses the poor to increase his own wealth or gives to the rich will only come to poverty	Whoever oppresses the poor to increase his own wealth, or gives to the rich, will only come to poverty.	oppresses, poor, poverty
+22	17	Incline your ear and hear the words of the wise and apply your heart to my knowledge	Incline your ear, and hear the words of the wise, and apply your heart to my knowledge,	incline, ear, wise
+22	18	for it will be pleasant if you keep them within you if all of them are ready on your lips	for it will be pleasant if you keep them within you, if all of them are ready on your lips.	pleasant, keep, lips
+22	19	That your trust may be in the Lord I have made them known to you today even to you	That your trust may be in the Lord, I have made them known to you today, even to you.	trust, lord, known
+22	20	Have I not written for you thirty sayings of counsel and knowledge	Have I not written for you thirty sayings of counsel and knowledge,	written, sayings, knowledge
+22	21	to make you know what is right and true that you may give a true answer to those who sent you	to make you know what is right and true, that you may give a true answer to those who sent you?	right, true, answer
+22	22	Do not rob the poor because he is poor or crush the afflicted at the gate	Do not rob the poor, because he is poor, or crush the afflicted at the gate,	rob, poor, afflicted
+22	23	for the Lord will plead their cause and rob of life those who rob them	for the Lord will plead their cause and rob of life those who rob them.	lord pleads, cause, life
+22	24	Make no friendship with a man given to anger nor go with a wrathful man	Make no friendship with a man given to anger, nor go with a wrathful man,	no friendship, anger, wrathful
+22	25	lest you learn his ways and entangle yourself in a snare	lest you learn his ways and entangle yourself in a snare.	learn, ways, snare
+22	26	Be not one of those who give pledges who put up security for debts	Be not one of those who give pledges, who put up security for debts.	no pledges, security, debts
+22	27	If you have nothing with which to pay why should your bed be taken from under you	If you have nothing with which to pay, why should your bed be taken from under you?	nothing, pay, bed
+22	28	Do not move the ancient landmark that your fathers have set	Do not move the ancient landmark that your fathers have set.	do not move, landmark, fathers
+22	29	Do you see a man skillful in his work He will stand before kings he will not stand before obscure men	Do you see a man skillful in his work? He will stand before kings; he will not stand before obscure men.	skillful, work, kings
+23	1	When you sit down to eat with a ruler observe carefully what is before you	When you sit down to eat with a ruler, observe carefully what is before you,	eat, ruler, observe
+23	2	and put a knife to your throat if you are given to appetite	and put a knife to your throat if you are given to appetite.	knife, throat, appetite
+23	3	Do not desire his delicacies for they are deceptive food	Do not desire his delicacies, for they are deceptive food.	desire, delicacies, deceptive, food, acquire
+23	4	Do not toil to acquire wealth be discerning enough to desist	Do not toil to acquire wealth; be discerning enough to desist.	wealth, toil, discerning, desist
+23	5	When your eyes light on it it is gone for suddenly it sprouts wings flying like an eagle toward heaven	When your eyes light on it, it is gone, for suddenly it sprouts wings, flying like an eagle toward heaven.	eyes, light, sprout, wings, flying, heaven
+23	6	Do not eat the bread of a man who is stingy do not desire his delicacies	Do not eat the bread of a man who is stingy; do not desire his delicacies,	eat, bread, man, stingy, delicacies
+23	7	for he is like one who is inwardly calculating Eat and drink he says to you but his heart is not with you	for he is like one who is inwardly calculating. “Eat and drink!” he says to you, but his heart is not with you.	eat, drink, heart
+23	8	You will vomit up the morsels that you have eaten and waste your pleasant words	You will vomit up the morsels that you have eaten, and waste your pleasant words.	vomit, morsels, eaten, waste, pleasant, words
+23	9	Do not speak in the hearing of a fool for he will despise the good sense of your words	Do not speak in the hearing of a fool, for he will despise the good sense of your words.	speak, fool, despise, good sense, words
+23	10	Do not move an ancient landmark or enter the fields of the fatherless	Do not move an ancient landmark or enter the fields of the fatherless,	move, ancient, landmark, enter, fields, fatherless
+23	11	for their Redeemer is strong he will plead their cause against you	for their Redeemer is strong; he will plead their cause against you.	Redeemer, strong, plead, cause
+23	12	Apply your heart to instruction and your ear to words of knowledge	Apply your heart to instruction and your ear to words of knowledge.	apply, heart, instruction, ear, words, knowledge
+23	13	Do not withhold discipline from a child if you strike him with a rod he will not die	Do not withhold discipline from a child; if you strike him with a rod, he will not die.	withhold, discipline, child, strike, rod, die
+23	14	If you strike him with the rod you will save his soul from Sheol	If you strike him with the rod, you will save his soul from Sheol.	strike, rod, save, soul, Sheol
+23	15	My son if your heart is wise my heart too will be glad	My son, if your heart is wise, my heart too will be glad.	son, heart, wise, glad
+23	16	My inmost being will exult when your lips speak what is right	My inmost being will exult when your lips speak what is right.	inmost, exult, lips, right
+23	17	Let not your heart envy sinners but continue in the fear of the Lord all the day	Let not your heart envy sinners, but continue in the fear of the Lord all the day.	heart, envy, sinners, fear, Lord, day
+23	18	Surely there is a future and your hope will not be cut off	Surely there is a future, and your hope will not be cut off.	future, hope, cut off
+23	19	Hear my son and be wise and direct your heart in the way	Hear, my son, and be wise, and direct your heart in the way.	hear, son, wise, direct, heart, way
+23	20	Be not among drunkards or among gluttonous eaters of meat	Be not among drunkards or among gluttonous eaters of meat,	drunkards, gluttonous, eaters, meat
+23	21	for the drunkard and the glutton will come to poverty and slumber will clothe them with rags	for the drunkard and the glutton will come to poverty, and slumber will clothe them with rags.	drunkard, glutton, poverty, slumber, clothe, rags
+23	22	Listen to your father who gave you life and do not despise your mother when she is old	Listen to your father who gave you life, and do not despise your mother when she is old.	listen, father, gave, life, despise, mother, old
+23	23	Buy truth and do not sell it buy wisdom instruction and understanding	Buy truth, and do not sell it; buy wisdom, instruction, and understanding.	buy, truth, sell, wisdom, instruction, understanding
+23	24	The father of the righteous will greatly rejoice he who fathers a wise son will be glad in him	The father of the righteous will greatly rejoice; he who fathers a wise son will be glad in him.	father, righteous, rejoice, fathers, wise, son, glad
+23	25	Let your father and mother be glad let her who bore you rejoice	Let your father and mother be glad; let her who bore you rejoice.	father, mother, glad, bore, rejoice
+23	26	My son give me your heart and let your eyes observe my ways	My son, give me your heart, and let your eyes observe my ways.	son, give, heart, eyes, observe, ways
+23	27	For a prostitute is a deep pit an adulteress is a narrow well	For a prostitute is a deep pit; an adulteress is a narrow well.	prostitute, deep, pit, adulteress, narrow, well
+23	28	She lies in wait like a robber and increases the traitors among mankind	She lies in wait like a robber and increases the traitors among mankind.	lies, wait, robber, increases, traitors, mankind
+23	29	Who has woe Who has sorrow Who has strife Who has complaining Who has wounds without cause Who has redness of eyes	Who has woe? Who has sorrow? Who has strife? Who has complaining? Who has wounds without cause? Who has redness of eyes?	woe, sorrow, strife, complaining, wounds, cause, redness, eyes
+23	30	Those who tarry long over wine those who go to try mixed wine	Those who tarry long over wine; those who go to try mixed wine.	tarry, long, wine, try, mixed
+23	31	Do not look at wine when it is red when it sparkles in the cup and goes down smoothly	Do not look at wine when it is red, when it sparkles in the cup and goes down smoothly.	look, wine, red, sparkles, cup, smoothly
+23	32	In the end it bites like a serpent and stings like an adder	In the end it bites like a serpent and stings like an adder.	end, bites, serpent, stings, adder
+23	33	Your eyes will see strange things and your heart utter perverse things	Your eyes will see strange things, and your heart utter perverse things.	eyes, see, strange, heart, utter, perverse
+23	34	You will be like one who lies down in the midst of the sea like one who lies on the top of a mast	You will be like one who lies down in the midst of the sea, like one who lies on the top of a mast.	lies, midst, sea, lies, top, mast
+23	35	They struck me you will say but I was not hurt they beat me but I did not feel it When shall I awake I must have another drink	“They struck me,” you will say, “but I was not hurt; they beat me, but I did not feel it. When shall I awake? I must have another drink.”	struck, hurt, beat, feel, awake, drink
+24	1	Be not envious of evil men nor desire to be with them	Be not envious of evil men, nor desire to be with them 	envious, evil, men
+24	2	for their hearts device violence and their lips talk of trouble	for their hearts device violence, and their lips talk of trouble.	desire, hearts, violence
+24	3	By wisdom a house is built and by understanding it is established	By wisdom a house is built, and by understanding it is established;	wisdom, house, built
+24	4	by knowledge the rooms are filled with all precious and pleasant riches	by knowledge the rooms are filled with all precious and pleasant riches.	understanding, established, knowledge
+24	5	A wise man is full of strength and a man of knowledge enhances his might	A wise man is full of strength, and a man of knowledge enhances his might,	wise, strength, knowledge
+24	6	for by wise guidance you can wage your war and in abundance of counselors there is victory	for by wise guidance you can wage your war, and in abundance of counselors there is victory.	wise, guidance, war
+24	7	Wisdom is too high for a fool in the gate he does not open his mouth	Wisdom is too high for a fool; in the gate he does not open his mouth.	wisdom, high, fool
+24	8	Whoever plans to do evil will be called a schemer	Whoever plans to do evil will be called a schemer.	plans, evil, schemer
+24	9	The devising of folly is sin and the scoffer is an abomination to mankind	The devising of folly is sin, and the scoffer is an abomination to mankind.	devising, folly, sin
+24	10	If you faint in the day of adversity your strength is small	If you faint in the day of adversity, your strength is small.	faint, day, adversity
+24	11	Rescue those who are being taken away to death hold back those who are stumbling to the slaughter	Rescue those who are being taken away to death; hold back those who are stumbling to the slaughter.	rescue, death, stumbling
+24	12	If you say Behold we did not know this does not he who weighs the heart perceive it Does not he who keeps watch over your soul know it and will he not repay man according to his work	If you say, “Behold, we did not know this,” does not he who weighs the heart perceive it? Does not he who keeps watch over your soul know it, and will he not repay man according to his work?	heart, perceive, watch
+24	13	My son eat honey for it is good and the drippings of the honeycomb are sweet to your taste	My son, eat honey, for it is good, and the drippings of the honeycomb are sweet to your taste.	eat, honey, good
+24	14	Know that wisdom is such to your soul if you find it there will be a future and your hope will not be cut off	Know that wisdom is such to your soul; if you find it, there will be a future, and your hope will not be cut off.	wisdom, soul, future
+24	15	Lie not in wait as a wicked man against the dwelling of the righteous do no violence to his home	Lie not in wait as a wicked man against the dwelling of the righteous; do no violence to his home;	lie, wait, wicked
+24	16	or the righteous falls seven times and rises again but the wicked stumble in times of calamity	or the righteous falls seven times and rises again, but the wicked stumble in times of calamity.	righteous, falls, rises
+24	17	Do not rejoice when your enemy falls and let not your heart be glad when he stumbles	Do not rejoice when your enemy falls, and let not your heart be glad when he stumbles,	rejoice, enemy, falls
+24	18	lest the Lord see it and be displeased and turn away his anger from him	lest the Lord see it and be displeased, and turn away his anger from him.	lord, displeased, anger
+24	19	Fret not yourself because of evildoers and be not envious of the wicked	Fret not yourself because of evildoers, and be not envious of the wicked,	fret, evildoers, envious
+24	20	for the evil man has no future the lamp of the wicked will be put out	for the evil man has no future; the lamp of the wicked will be put out.	evil, future, lamp
+24	21	My son fear the Lord and the king and do not join with those who do otherwise	My son, fear the Lord and the king, and do not join with those who do otherwise,	fear, lord, king
+24	22	for disaster will arise suddenly from them and who knows the ruin that will come from them both	for disaster will arise suddenly from them, and who knows the ruin that will come from them both?	disaster, arise, ruin
+24	23	These also are sayings of the wise Partiality in judging is not good	These also are sayings of the wise. Partiality in judging is not good.	sayings, wise
+24	24	Whoever says to the wicked You are in the right will be cursed by peoples abhorred by nations	Whoever says to the wicked, “You are in the right,” will be cursed by peoples, abhorred by nations,	partiality, judging, not good
+24	25	but those who rebuke the wicked will have delight and a good blessing will come upon them	but those who rebuke the wicked will have delight, and a good blessing will come upon them.	whoever, rebuke, wicked, delight, blessing
+24	26	Whoever gives an honest answer kisses the lips	Whoever gives an honest answer kisses the lips.	honest, answer, kisses, lips
+24	27	Prepare your work outside get everything ready for yourself in the field and after that build your house	Prepare your work outside; get everything ready for yourself in the field, and after that build your house.	prepare, work, outside, ready, field, build, house
+24	28	Be not a witness against your neighbor without cause and do not deceive with your lips	Be not a witness against your neighbor without cause, and do not deceive with your lips.	not, witness, neighbor, cause, deceive, lips
+24	29	Do not say I will do to him as he has done to me I will pay the man back for what he has done	Do not say, “I will do to him as he has done to me; I will pay the man back for what he has done.”	not say, do, him, done, pay, man, back
+24	30	I passed by the field of a sluggard by the vineyard of a man lacking sense	I passed by the field of a sluggard, by the vineyard of a man lacking sense,	passed by, field, sluggard, vineyard, man, lacking sense
+24	31	and behold it was all overgrown with thorns the ground was covered with nettles and its stone wall was broken down	and behold, it was all overgrown with thorns; the ground was covered with nettles, and its stone wall was broken down.	behold, overgrown, thorns, ground, covered, nettles, stone wall, broken down
+24	32	Then I saw and considered it I looked and received instruction	Then I saw and considered it; I looked and received instruction.	saw, considered, looked, received, instruction
+24	33	A little sleep a little slumber a little folding of the hands to rest	A little sleep, a little slumber, a little folding of the hands to rest,	little sleep, little slumber, little folding, hands, rest
+24	34	and poverty will come upon you like a robber and want like an armed man	and poverty will come upon you like a robber, and want like an armed man.	poverty, come, robber, want, like, armed, man
+25	1	These also are proverbs of Solomon which the men of Hezekiah king of Judah copied	These also are proverbs of Solomon which the men of Hezekiah king of Judah copied.	Proverbs, Hezekiah, copied
+25	2	It is the glory of God to conceal things but the glory of kings is to search things out	It is the glory of God to conceal things, but the glory of kings is to search things out.	Glory, God, conceal
+25	3	As the heavens for height and the earth for depth so the heart of kings is unsearchable	As the heavens for height, and the earth for depth, so the heart of kings is unsearchable.	Heavens, earth, kings
+25	4	Take away the dross from the silver and the smith has material for a vessel	Take away the dross from the silver, and the smith has material for a vessel;	Take away, dross, silver
+25	5	take away the wicked from the presence of the king and his throne will be established in righteousness	take away the wicked from the presence of the king, and his throne will be established in righteousness.	Take away, wicked, throne
+25	6	Do not put yourself forward in the kings presence or stand in the place of the great	Do not put yourself forward in the king’s presence or stand in the place of the great,	Do not, put forward
+25	7	for it is better to be told Come up here than to be put lower in the presence of a noble What your eyes have seen	for it is better to be told, “Come up here,” than to be put lower in the presence of a noble. What your eyes have seen	Better to be told, come up here
+25	8	do not hastily bring into court for what will you do in the end when your neighbor puts you to shame	do not hastily bring into court, for what will you do in the end, when your neighbor puts you to shame?	Do not hastily, bring to court
+25	9	Argue your case with your neighbor himself and do not reveal anothers secret	Argue your case with your neighbor himself, and do not reveal another’s secret,	Argue, case, neighbor
+25	10	lest he who hears you bring shame upon you and your ill repute have no end	lest he who hears you bring shame upon you, and your ill repute have no end.	Lest, shame upon
+25	11	A word fitly spoken is like apples of gold in a setting of silver	A word fitly spoken is like apples of gold in a setting of silver.	Word, fitly spoken
+25	12	Like a gold ring or an ornament of gold is a wise reprover to a listening ear	Like a gold ring or an ornament of gold is a wise reprover to a listening ear.	Gold ring, wise reprover
+25	13	Like the cold of snow in the time of harvest is a faithful messenger to those who send him	Like the cold of snow in the time of harvest is a faithful messenger to those who send him;	Cold of snow, faithful messenger
+25	14	Like clouds and wind without rain is a man who boasts of a gift he does not give	Like clouds and wind without rain is a man who boasts of a gift he does not give.	Clouds, wind, without rain
+25	15	With patience a ruler may be persuaded and a soft tongue will break a bone	With patience a ruler may be persuaded, and a soft tongue will break a bone.	Patience, ruler persuaded
+25	16	If you have found honey eat only enough for you lest you have your fill of it and vomit it	If you have found honey, eat only enough for you, lest you have your fill of it and vomit it.	Found honey, eat enough
+25	17	Let your foot be seldom in your neighbors house lest he have his fill of you and hate you	Let your foot be seldom in your neighbor’s house, lest he have his fill of you and hate you.	Let foot seldom, neighbor's house
+25	18	A man who bears false witness against his neighbor is like a war club or a sword or a sharp arrow	A man who bears false witness against his neighbor is like a war club, or a sword, or a sharp arrow.	Man, false witness
+25	19	Trusting in a treacherous man in time of trouble is like a bad tooth or a foot that slips	Trusting in a treacherous man in time of trouble is like a bad tooth or a foot that slips.	Trusting, treacherous man
+25	20	Whoever sings songs to a heavy heart is like one who takes off a garment on a cold day and like vinegar on soda	Whoever sings songs to a heavy heart is like one who takes off a garment on a cold day, and like vinegar on soda.	Sing songs, heavy heart
+25	21	If your enemy is hungry give him bread to eat and if he is thirsty give him water to drink	If your enemy is hungry, give him bread to eat, and if he is thirsty, give him water to drink,	Enemy hungry, give
+25	22	for you will heap burning coals on his head and the Lord will reward you	for you will heap burning coals on his head, and the Lord will reward you.	Heap burning coals
+25	23	The north wind brings forth rain and a backbiting tongue angry looks	The north wind brings forth rain, and a backbiting tongue, angry looks.	North wind, rain
+25	24	It is better to live in a corner of the housetop than in a house shared with a quarrelsome wife	It is better to live in a corner of the housetop than in a house shared with a quarrelsome wife.	Better to live, corner housetop
+25	25	Like cold water to a thirsty soul so is good news from a far country	Like cold water to a thirsty soul, so is good news from a far country.	Cold water, thirsty soul
+25	26	Like a muddied spring or a polluted fountain is a righteous man who gives way before the wicked	Like a muddied spring or a polluted fountain is a righteous man who gives way before the wicked.	Muddied spring, polluted fountain
+25	27	It is not good to eat much honey nor is it glorious to seek ones own glory	It is not good to eat much honey, nor is it glorious to seek one’s own glory.	Not good, eat much
+25	28	A man without selfcontrol is like a city broken into and left without walls	A man without self-control is like a city broken into and left without walls.	Man, self-control, city
